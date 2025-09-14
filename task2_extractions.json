@@ -1,0 +1,23 @@
+[
+  {
+    "age": 24,
+    "email": "priya.sharma@example.com",
+    "location": "Pune",
+    "name": "Priya Sharma",
+    "phone": ""
+  },
+  {
+    "age": 21,
+    "email": "student@example.com",
+    "location": "Mumbai",
+    "name": "Manav Bhuta",
+    "phone": "+91 9876543210"
+  },
+  {
+    "age": 30,
+    "email": "raj.contact@gmail.com",
+    "location": "Delhi",
+    "name": "Raj",
+    "phone": "09988776655"
+  }
+]
