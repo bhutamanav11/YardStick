@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "index": 1,
+      "text": "Hi, I need help finishing my internship assignment.",
+      "intent": "request",
+      "sentiment": "neutral",
+      "entities": {
+        "emails": [],
+        "dates": [],
+        "phones": [],
+        "deadlines": []
+      }
+    },
+    {
+      "index": 2,
+      "text": "I need to summarize chats and classify intent and extract structured details.",
+      "intent": "info",
+      "sentiment": "neutral",
+      "entities": {
+        "emails": [],
+        "dates": [],
+        "phones": [],
+        "deadlines": []
+      }
+    },
+    {
+      "index": 3,
+      "text": "Deadline is next Friday and my email is student@example.com.",
+      "intent": "deadline",
+      "sentiment": "neutral",
+      "entities": {
+        "emails": [
+          "student@example.com"
+        ],
+        "dates": [
+          "next Friday"
+        ],
+        "phones": [],
+        "deadlines": [
+          "next Friday"
+        ]
+      }
+    }
+  ]
+}
