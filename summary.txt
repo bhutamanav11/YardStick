@@ -1,4 +1,0 @@
-Here's a summary to help you get started:
-* You need help with an internship assignment involving chat summaries.
-* The tasks include classifying intent and extracting structured details from chats.
-* Your deadline is next Friday, and I can follow up with you at student@example.com if needed.
